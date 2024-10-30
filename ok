@@ -1,0 +1,60 @@
+* [33mcommit 6a6447461a434ec6293129c46ea45fbae0026e47[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcolaboracion[m[33m, [m[1;31morigin/colaboracion[m[33m)[m
+[31m|[m Author: Luis Alberto <lcancelah@redcibercom.com.mx>
+[31m|[m Date:   Wed Oct 30 11:17:17 2024 -0600
+[31m|[m 
+[31m|[m     agregar archivo a colaboracion
+[31m|[m   
+*   [33mcommit fca7f6b9711ce8079d364d87860a03dc55a40015[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m
+[32m|[m[33m\[m  Merge: 8438d45 beda36d
+[32m|[m [33m|[m Author: LuisAlbertoCH <lcancelah@redcibercom.com.mx>
+[32m|[m [33m|[m Date:   Wed Oct 30 10:55:38 2024 -0600
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge pull request #1 from LuisAlbertoCH/practica
+[32m|[m [33m|[m     
+[32m|[m [33m|[m     practica con nueva rama remoto
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit beda36d33599b5bdc5214b9fbd4bd8da72ca6545[m[33m ([m[1;31morigin/practica[m[33m)[m
+[32m|[m[32m/[m  Author: Luis Alberto <lcancelah@redcibercom.com.mx>
+[32m|[m   Date:   Wed Oct 30 10:48:26 2024 -0600
+[32m|[m   
+[32m|[m       practica con nueva rama remoto
+[32m|[m 
+* [33mcommit 8438d4596c94322c9a59dc1935d4b82f1db3c61b[m
+[33m|[m Author: Luis Alberto <lcancelah@redcibercom.com.mx>
+[33m|[m Date:   Wed Oct 30 10:35:45 2024 -0600
+[33m|[m 
+[33m|[m     Reapply "Update index.html"
+[33m|[m     
+[33m|[m     This reverts commit 333cb7eab3bc65f1a2d14aebff670aabf2e65ce2.
+[33m|[m 
+* [33mcommit 333cb7eab3bc65f1a2d14aebff670aabf2e65ce2[m
+[33m|[m Author: Luis Alberto <lcancelah@redcibercom.com.mx>
+[33m|[m Date:   Wed Oct 30 10:35:04 2024 -0600
+[33m|[m 
+[33m|[m     Revert "Update index.html"
+[33m|[m     
+[33m|[m     This reverts commit a533db1adfec64ac1270a0802cffd27d1c49cbec.
+[33m|[m 
+* [33mcommit a533db1adfec64ac1270a0802cffd27d1c49cbec[m
+[33m|[m Author: Luis Alberto <lcancelah@redcibercom.com.mx>
+[33m|[m Date:   Wed Oct 30 10:34:53 2024 -0600
+[33m|[m 
+[33m|[m     Update index.html
+[33m|[m 
+* [33mcommit e0875c6227163dc274f950b8b315b40ea7ce6eab[m
+[33m|[m Author: Luis Alberto <lcancelah@redcibercom.com.mx>
+[33m|[m Date:   Wed Oct 30 09:33:43 2024 -0600
+[33m|[m 
+[33m|[m     segundo cambio en repo remoto
+[33m|[m 
+* [33mcommit a8aa2a6164ba9fa835203ca1647f257a3030a3ec[m
+[33m|[m Author: Luis Alberto <lcancelah@redcibercom.com.mx>
+[33m|[m Date:   Wed Oct 30 09:29:45 2024 -0600
+[33m|[m 
+[33m|[m     primer cambio en repo remoto
+[33m|[m 
+* [33mcommit 3ce39c5d0b85a3ba0271fedfdf175d55f38a81c8[m
+  Author: LuisAlbertoCH <lcancelah@redcibercom.com.mx>
+  Date:   Wed Oct 30 09:25:08 2024 -0600
+  
+      Initial commit
